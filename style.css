@@ -21,6 +21,11 @@ body{
     left: 0;
     z-index: 1000;
 }
+   .navbar.scrolled {
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Bordure avec shadow */
+            border-bottom: 1px solid #ddd; /* Bordure facultative */
+            background-color: white;
+        }
 .logo{
     font-size: 24px;
     font-weight: 700;
@@ -256,7 +261,6 @@ body{
             border-bottom: 2px solid #64748b;
             transform: rotate(2deg);
         }
-
         @keyframes bounce {
             0%, 20%, 50%, 80%, 100% {
                 transform: translateY(0) rotate(45deg);
