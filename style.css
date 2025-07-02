@@ -23,18 +23,19 @@ body{
 }
 .logo{
     font-size: 24px;
-    font-weight: 600;
+    font-weight: 700;
     color:#2c3e50;
 }
 .nav_links{
     display: flex;
     list-style: none;
     gap:30px;
+    margin-left: 2px;
 }
 .nav_links a{
     text-decoration: none;
     color: #64748b;
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 500;
     transition: color 0.3s ease;
 }
@@ -120,6 +121,7 @@ body{
             align-items: center;
             justify-content: center;
             position: relative;
+            bottom: 20px;
             border: 4px solid #8b5cf6;
         }
 
@@ -156,22 +158,23 @@ body{
             font-size: 56px;
             font-weight: 700;
             color: #1e293b;
-            margin-bottom: 24px;
             line-height: 1.1;
+            max-width: 800px;
+            margin-top: -40px;
         }
 
         .subtitle {
-            font-size: 20px;
+            font-size: 24px;
             color: #64748b;
-            margin-bottom: 35px;
-            line-height: 1.6;
-            max-width: 700px;
+            margin-bottom: 27px;
+            margin-top: 27px;
+            line-height: 1;
         }
 
         .description {
             font-size: 17px;
             color: #64748b;
-            margin-bottom: 50px;
+            margin-bottom: 40px;
             line-height: 1.7;
             max-width: 650px;
         }
@@ -251,7 +254,7 @@ body{
             height: 24px;
             border-right: 2px solid #64748b;
             border-bottom: 2px solid #64748b;
-            transform: rotate(45deg);
+            transform: rotate(2deg);
         }
 
         @keyframes bounce {
