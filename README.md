@@ -1,6 +1,5 @@
 # 🌟 Portfolio - Farah El Hadiq
-
-https://portfoliofarahelhadiq.netlify.app/assets/preview.png 
+ 
 
 
 ## 📌 Description
