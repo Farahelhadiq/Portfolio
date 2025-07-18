@@ -1,11 +1,12 @@
-# 🌟 Portfolio - Farah El Hadiq
- 
-
+# 🌟 Portfolio Website – Farah El Hadiq | Full Stack Web Developer
 
 ## 📌 Description
 
 This is a **personal portfolio website** designed and developed by **Farah El Hadiq**, a Full Stack Web Developer.  
 It showcases my **skills**, **recent projects**, and **professional journey** with a clean and responsive design.
+
+![Portfolio Screenshot](https://github.com/Farahelhadiq/Portfolio/raw/main/screenshot.png)  
+*A snapshot of the portfolio homepage.*
 
 🔗 **Live Demo:** [https://portfoliofarahelhadiq.netlify.app](https://portfoliofarahelhadiq.netlify.app)
 
@@ -28,4 +29,7 @@ It showcases my **skills**, **recent projects**, and **professional journey** wi
 ✔️ Smooth navigation and simple user experience  
 ✔️ Links to my professional networks (GitHub, LinkedIn)
 
+---
+
+## 📂 Project Structure
 
