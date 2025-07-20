@@ -1,4 +1,4 @@
-# <img src="https://cdn.simpleicons.org/star/FFD700" width="26"/> Portfolio Website – Farah El Hadiq | Full Stack Web Developer
+# <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="26"/> Portfolio Website – Farah El Hadiq | Full Stack Web Developer
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status" />
@@ -8,7 +8,7 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/pinboard/1E40AF" width="22"/> Overview
+## <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="20"/> Overview
 
 This is a **personal portfolio website** designed and developed by **Farah El Hadiq**, a Full Stack Web Developer.  
 It showcases my **skills**, **recent projects**, and **professional journey** with a clean and responsive design.
@@ -23,7 +23,7 @@ It showcases my **skills**, **recent projects**, and **professional journey** wi
 
 ---
 
-## <img src="https://cdn.simpleicons.org/wrench/3B82F6" width="22"/> Built With
+## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="20"/> Built With
 
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat) **Semantic structure**  
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat) **Modern and responsive design**  
@@ -33,7 +33,7 @@ It showcases my **skills**, **recent projects**, and **professional journey** wi
 
 ---
 
-## <img src="https://cdn.simpleicons.org/sparkles/F97316" width="22"/> Features
+## <img src="https://cdn-icons-png.flaticon.com/512/1828/1828743.png" width="20"/> Features
 
 ✔️ Fully responsive layout (**desktop, tablet, and mobile**)  
 ✔️ Organized sections for **About, Skills, and Projects**  
@@ -42,5 +42,5 @@ It showcases my **skills**, **recent projects**, and **professional journey** wi
 
 ---
 
-## <img src="https://cdn.simpleicons.org/folder/64748B" width="22"/> Project Structure
+## <img src="https://cdn-icons-png.flaticon.com/512/2099/2099058.png" width="20"/> Project Structure
 
