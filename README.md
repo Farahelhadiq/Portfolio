@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Made%20With-HTML5%20%7C%20CSS3%20%7C%20JS-orange?style=for-the-badge" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/Made%20With-HTML5%20%7C%20CSS3%20%7C%20TailwindCSS%20%7C%20JS-orange?style=for-the-badge" alt="Tech Stack" />
   <img src="https://img.shields.io/badge/Deployed%20On-Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" alt="Netlify" />
 </p>
 
