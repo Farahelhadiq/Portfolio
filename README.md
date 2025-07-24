@@ -65,3 +65,7 @@ Portfolio/
    ```bash
    git clone https://github.com/Farahelhadiq/Portfolio.git
 
+---
+
+<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="20"/> Author
+Farah El Hadiq
