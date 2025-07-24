@@ -56,3 +56,12 @@ Portfolio/
 
 │── README.md # Project documentation
 
+
+---
+
+## <img src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png" width="20"/> Quick Start
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/Farahelhadiq/Portfolio.git
+
