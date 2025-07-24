@@ -45,8 +45,14 @@ It showcases my **skills**, **recent projects**, and **professional journey** wi
 ## <img src="https://cdn-icons-png.flaticon.com/512/2099/2099058.png" width="20"/> Project Structure
 
 Portfolio/
+
 │── index.html # Main HTML structure
+
 │── style.css # All styles and responsive design
+
 │── script.js # Smooth interactions
+
 │── assets/ # Images & screenshots
+
 │── README.md # Project documentation
+
