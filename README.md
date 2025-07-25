@@ -13,12 +13,6 @@
 This is a **personal portfolio website** designed and developed by **Farah El Hadiq**, a Full Stack Web Developer.  
 It showcases my **skills**, **recent projects**, and **professional journey** with a clean and responsive design.
 
-<p align="center">
-  <img src="./assets/screenshot.png" alt="Portfolio Screenshot" width="800"/>
-  <br/>
-  <i>A snapshot of the portfolio homepage.</i>
-</p>
-
 🔗 **Live Demo:** [https://portfoliofarahelhadiq.netlify.app](https://portfoliofarahelhadiq.netlify.app)
 
 ---
